@@ -1,0 +1,36 @@
+
+**Position**: Junior NLP Engineer
+**Company**: AI Insight Solutions
+**Location**: Remote / Bangalore, India
+**Experience**: 0–1 years
+
+---
+
+### 📝 **Job Summary**
+
+We are looking for a passionate **Junior NLP Engineer** to join our AI Research & Development team. You will work on building intelligent systems that understand and process human language using modern NLP techniques.
+
+---
+
+### 🎯 **Responsibilities**:
+
+* Build and maintain text processing pipelines
+* Perform tokenization, lemmatization, stemming, and stopword removal
+* Implement and experiment with feature extraction methods like **TF-IDF**, **Bag of Words**, and **Word2Vec**
+* Train and evaluate machine learning models for classification and similarity tasks
+* Work with libraries like **NLTK**, **scikit-learn**, and **Gensim**
+* Apply **cosine similarity** and other metrics to compare text similarity
+* Collaborate using **Git** and document work in **Jupyter Notebooks**
+
+---
+
+### 🧠 **Skills & Technologies**:
+
+* **Python** (mandatory)
+* **Natural Language Processing** (NLP)
+* Familiarity with **text preprocessing techniques**
+* **SymSpell**, **BeautifulSoup**, **PDFMiner**, etc.
+* **ML libraries**: `sklearn`, `nltk`, `gensim`
+* Basic understanding of **Word Embeddings** and **semantic similarity**
+* Nice to have: **Streamlit**, **FastAPI**, **GitHub Portfolio**
+

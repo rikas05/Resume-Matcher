@@ -1,0 +1,6 @@
+nltk
+gensim
+pdfminer.six
+scikit-learn
+symspellpy
+beautifulsoup4
